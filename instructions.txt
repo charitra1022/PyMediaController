@@ -1,0 +1,8 @@
+A simple Desktop Application for controlling media related functionalities on a computer similar to the dedicated media keys on a Laptop. Its made in Python using the PyQt5 module.
+
+I made this app in order to serve the same functionality which the dedicated keys on a Laptop serve. This app contains 6 universal media buttons.
+
+For running this app, install the following Python modules:-
+1. pyqt5
+2. pyqt5-tools
+3. pynput
